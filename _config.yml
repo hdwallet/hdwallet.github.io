@@ -8,16 +8,16 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "zh-CN"
+title                    : "硬件钱包"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Kimziv"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hwallet/hwallet.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "kimziv"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "China"
   email            :
   uri              :
   bitbucket        :
@@ -251,3 +251,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
