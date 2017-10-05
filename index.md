@@ -1,4 +1,9 @@
 ---
+layout: page
+title: 主页
+permalink: /
+---
+
 # 哪个是最佳的比特币钱包？
 
 ## 终极指南
