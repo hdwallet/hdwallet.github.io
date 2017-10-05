@@ -70,9 +70,10 @@ Ledger Nano S就是一种硬件钱包。
 
 三个最流行的硬件钱包是：
 
+*   [Trezor](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-17073924344.2.60c426fcO8z367&id=558944698049) 
 *   [Ledger Nano S](/wallets/ledger-nano-s/)
 *   [KeepKey](/wallets/keepkey/)
-*   [Trezor](/wallets/trezor/) 
+
 
 如果你对比特币的安全、便捷性、可靠的比特币储存很关心在意的话，硬件钱包是一个不错的选择。
 
@@ -148,7 +149,7 @@ Ledger Nano S就是一种硬件钱包。
 #### 硬件钱包：可以保障你的比特币安全
 
 硬件钱包不是免费的。
-三个最流行的硬件钱包是：Trezor、Ledger Nano S、KeepKey。
+三个最流行的硬件钱包是：[Trezor](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-17073924344.2.60c426fcO8z367&id=558944698049) 、Ledger Nano S、KeepKey。
 
 但是如果你有大量重要的比特币的话，那么它的价格也是值得的。一个硬件钱包能保护几百比特币，与保护几百万比特币是一样有效的。
 
