@@ -69,9 +69,8 @@ Ledger Nano S就是一种硬件钱包。
 其核心创新是在消费比特币之前，必须要将比特币钱包连上你的电脑、电话或者平板设备。
 
 三个最流行的硬件钱包是：
-
+*   [Ledger Nano S](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-17073924344.2.109d8594DzT2zq&id=558944698049)
 *   [Trezor](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-17073924344.2.60c426fcO8z367&id=558944698049) 
-*   [Ledger Nano S](/wallets/ledger-nano-s/)
 *   [KeepKey](/wallets/keepkey/)
 
 
@@ -149,7 +148,7 @@ Ledger Nano S就是一种硬件钱包。
 #### 硬件钱包：可以保障你的比特币安全
 
 硬件钱包不是免费的。
-三个最流行的硬件钱包是：[Trezor](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-17073924344.2.60c426fcO8z367&id=558944698049) 、Ledger Nano S、KeepKey。
+三个最流行的硬件钱包是：[Ledger Nano S](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-17073924344.2.109d8594DzT2zq&id=558944698049)、[Trezor](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-17073924344.2.60c426fcO8z367&id=558944698049) 、Ledger Nano S、KeepKey。
 
 但是如果你有大量重要的比特币的话，那么它的价格也是值得的。一个硬件钱包能保护几百比特币，与保护几百万比特币是一样有效的。
 
@@ -167,7 +166,7 @@ Ledger Nano S就是一种硬件钱包。
 
 ## 最好的硬件钱包概览
 
-Ledger Nano S在三个带有屏幕的硬件钱包中是最便宜的。它售价65美元。Ledger是鼎鼎有名的专注于比特币安全的公司之一，其在2016年8月份推出这款Ledger Nano S设备。
+Ledger Nano S在三个带有屏幕的硬件钱包中是最便宜的。它售价68欧元(税前)。Ledger是鼎鼎有名的专注于比特币安全的公司之一，其在2016年8月份推出这款Ledger Nano S设备，现在已经是第5代了，也只目前支持最流行的硬件qian'b。
 
 Trezor成立于2014年，并且发布了其第一款硬件钱包--提供安全比特币存储和与热钱包一样方便消费的能力。TREZOR是一款只有拇指大小的小型设备。
 
